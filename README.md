@@ -30,15 +30,17 @@ Monday, November 16
 * 03:30 PM – 04:00 PM o BREAK
 * 04:00 PM – 04:45 PM o Lecture III: Finding Periodicity in Unevenly Sampled Data with Lomb-Scargle; A Miller
 * 04:45 PM – 06:00 PM o Problem III: Lomb-Scargle Periodograms; A Miller
+* 06:30 PM – 08:30 PM o Group dinner
 
 ## Day 2 – Signals, Noise, and Models
 
 Tuesday, November 17
 
-* 09:00 AM – 10:00 AM o Lecture IV: Matched Filtering: Finding Signals in Noise; L Bouma
-* 10:00 AM – 11:00 AM o Problem IV: Matched Filtering; L Bouma
-* 11:00 AM – 11:30 AM o BREAK
-* 11:30 AM – 12:00 PM o Problem IV (continued); L Bouma
+* 09:00 AM – 09:50 AM o Lecture IV: Matched Filtering: Finding Signals in Noise; L Bouma
+* 09:50 AM – 10:00 AM o BREAK
+* 10:00 AM – 10:50 AM o Problem IVa: Matched Filters with Known Templates: Chirps, Transits, and Microlensing Events; L Bouma
+* 10:50 AM – 11:00 AM o BREAK
+* 11:00 AM – 11:50 AM o Problem IVb: Unknown Templates and Needles in Haystacks; L Bouma
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:15 PM o Lecture V: Fourier Methods II: Spectral Estimation, Windowing, and Filtering; J Johnson
 * 02:15 PM – 03:30 PM o Problem V: Spectral Estimation and Filtering; J Johnson
@@ -50,7 +52,7 @@ Tuesday, November 17
 
 Wednesday, Nov 18
 
-* 09:00 AM – 10:0 AM o Lecture VII: Advanced Gaussian Processes: Making GPs Work at Scale; S Sagynbayeva
+* 09:00 AM – 10:00 AM o Lecture VII: Advanced Gaussian Processes: Making GPs Work at Scale; S Sagynbayeva
 * 10:00 AM – 10:30 AM o BREAK
 * 10:30 AM – 12:00 PM o Problem VII: Scalable Gaussian Processes; S Sagynbayeva
 * 12:00 PM – ??:?? PM o BREAK
@@ -59,9 +61,11 @@ Wednesday, Nov 18
 
 Thursday, Nov 19
 
-* 09:00 AM – 09:45 AM o Lecture VIII: From Pixels to Light Curves; L Bouma
-* 09:45 AM – 10:15 AM o BREAK
-* 10:15 AM – 12:00 PM o Problem VIII: Building Light Curves from Pixels; L Bouma
+* 09:00 AM – 09:45 AM o Lecture VIII: From Pixels to Light Curves, and Back Again; L Bouma
+* 09:45 AM – 10:00 AM o BREAK
+* 10:00 AM – 11:00 AM o Problem VIIIa: Photometry and Cotrending: Building and Believing Light Curves; L Bouma
+* 11:00 AM – 11:15 AM o BREAK
+* 11:15 AM – 11:50 AM o Problem VIIIb: Is My Signal Real? Classification Dashboards on Demand; L Bouma
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Lecture IX: Machine Learning for Time-Series Analysis; H Qu
 * 02:30 PM – 04:00 PM o Problem IX: Machine Learning for Time-Series Data; H Qu
